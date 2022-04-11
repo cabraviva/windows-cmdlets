@@ -30,3 +30,5 @@ Now you can use all cmdlets!
 | history | Prints the command history | history |
 | cp | Copies a file | cp file-to-copy.txt file-to-copy-to.txt |
 | top | Displays the processes | top |
+| mv | Moves a file | mv file-to-move.txt file-to-move-to.txt |
+| rm | Removes a file | rm file-to-remove.txt |
