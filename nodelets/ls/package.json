@@ -9,7 +9,7 @@
     "compile": "pkg -t node16-win ."
   },
   "author": "",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "devDependencies": {
     "pkg": "^5.6.0"
   }

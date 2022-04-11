@@ -32,3 +32,8 @@ Now you can use all cmdlets!
 | top | Displays the processes | top |
 | mv | Moves a file | mv file-to-move.txt file-to-move-to.txt |
 | rm | Removes a file | rm file-to-remove.txt |
+| nano | Opens a text editor | nano file-to-edit.txt |
+
+## License
+windows-cmdlets is licensed under the GPL-3.0 license.
+nano is part of the [GNU nano](https://www.gnu.org/software/nano/) project and is licensed under the GPL-3.0 license.
