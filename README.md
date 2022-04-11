@@ -18,3 +18,4 @@ Now you can use all cmdlets!
 | clear | Clears the console output | clear |
 | ls | Equivalent to the linux ls command | ls |
 | hacksim | Yeah, the good old dir /s | hacksim |
+| cat | Prints the contents of a file | cat file-name |
