@@ -20,3 +20,5 @@ Now you can use all cmdlets!
 | hacksim | Yeah, the good old dir /s | hacksim |
 | cat | Prints the contents of a file | cat file-name |
 | touch | Creates a new file | touch file-name |
+| head | Displays the first ten lines of a file | head file-name |
+| sudo | Run a command as administrator | sudo command |
