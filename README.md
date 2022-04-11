@@ -15,3 +15,6 @@ Now you can use all cmdlets!
 | ------ | ------ | ------ |
 | mkdir | Creates a new directory | mkdir directory-name |
 | deldir | Deletes a directory recursively without prompting the use | deldir directory-name |
+| clear | Clears the console output | clear |
+| ls | Equivalent to the linux ls command | ls |
+| hacksim | Yeah, the good old dir /s | hacksim |
