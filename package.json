@@ -1,6 +1,6 @@
 {
   "name": "windows-cmdlets",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A collection of useful windows cmdlets",
   "main": "_install.js",
   "bin": "_install.js",
