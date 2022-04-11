@@ -27,3 +27,4 @@ Now you can use all cmdlets!
 | zip | Compresses a file | zip archive.zip file-to-add.txt |
 | unzip | Extracts an archive | unzip archive.zip |
 | pwd | Prints the current directory | pwd |
+| history | Prints the command history | history |
