@@ -4,7 +4,12 @@ A collection of useful windows cmdlets
 
 # Usage
 
-First, open a command prompt. Then clone this repo: `git clone https://github.com/greencoder001/windows-cmdlets.git` and copy every file in the cmdlets folder to `C:\Windows\system32`
+First, open a command prompt as administrator.
+<iframe src='https://gfycat.com/ifr/FilthyTimelyIguanodon' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p></p>
+
+
+Then, you'll need to run this command to install all cmdlets: `npx windows-cmdlets`
+
 
 Now you can use all cmdlets!
 
