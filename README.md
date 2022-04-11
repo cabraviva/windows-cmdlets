@@ -26,3 +26,4 @@ Now you can use all cmdlets!
 | reboot | Reboot the computer | reboot |
 | zip | Compresses a file | zip archive.zip file-to-add.txt |
 | unzip | Extracts an archive | unzip archive.zip |
+| pwd | Prints the current directory | pwd |
