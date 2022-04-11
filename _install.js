@@ -14,5 +14,5 @@ try {
         fs.copyFileSync(CMDLET_PATH, SYSTEM32_PATH)
     }
 } catch (err) {
-    console.log('Did you thought I was joking when I said open cmd as administrator?')
+    console.log('Did you thought I was joking when I told you to open cmd as administrator?')
 }
