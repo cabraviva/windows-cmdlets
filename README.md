@@ -4,7 +4,7 @@ A collection of useful windows cmdlets
 
 # Usage
 
-First, [open a command prompt as administrator](https://www.itechguides.com/how-to-run-cmd-as-admin-administrator/https:/).
+First, [open a command prompt as administrator](https://www.itechguides.com/how-to-run-cmd-as-admin-administrator/).
 
 Then, you'll need to run this command to install all cmdlets: `npx windows-cmdlets`
 
