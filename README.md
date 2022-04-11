@@ -19,3 +19,4 @@ Now you can use all cmdlets!
 | ls | Equivalent to the linux ls command | ls |
 | hacksim | Yeah, the good old dir /s | hacksim |
 | cat | Prints the contents of a file | cat file-name |
+| touch | Creates a new file | touch file-name |
