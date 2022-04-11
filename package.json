@@ -1,0 +1,24 @@
+{
+  "name": "windows-cmdlets",
+  "version": "1.0.0",
+  "description": "A collection of useful windows cmdlets",
+  "main": "_install.js",
+  "bin": "_install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/windows-cmdlets.git"
+  },
+  "keywords": [
+    "windows",
+    "cmdlets"
+  ],
+  "author": "greencoder001",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/greencoder001/windows-cmdlets/issues"
+  },
+  "homepage": "https://github.com/greencoder001/windows-cmdlets#readme"
+}
