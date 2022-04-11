@@ -22,3 +22,5 @@ Now you can use all cmdlets!
 | touch | Creates a new file | touch file-name |
 | head | Displays the first ten lines of a file | head file-name |
 | sudo | Run a command as administrator | sudo command |
+| poweroff | Shutdown the computer | poweroff |
+| reboot | Reboot the computer | reboot |

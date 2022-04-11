@@ -2,4 +2,4 @@
 :: This file is part of https://github.com/greencoder001/windows-cmdlets
 @echo off
 
-runas /user:Administrator "%*"
+shutdown -r -t 0
