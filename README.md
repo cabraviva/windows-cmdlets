@@ -28,3 +28,5 @@ Now you can use all cmdlets!
 | unzip | Extracts an archive | unzip archive.zip |
 | pwd | Prints the current directory | pwd |
 | history | Prints the command history | history |
+| cp | Copies a file | cp file-to-copy.txt file-to-copy-to.txt |
+| top | Displays the processes | top |
