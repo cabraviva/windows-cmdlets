@@ -4,12 +4,7 @@ A collection of useful windows cmdlets
 
 # Usage
 
-First, open a command prompt **and run it as administrator.**
-Then, switch to the your hard disk (in most cases C:)
-`cd C:\`.
-After that, clone this repo:
-`git clone https://github.com/greencoder001/windows-cmdlets.git`.
-And add it to the PATH: `setx /M path "%PATH%;C:\windows-cmdlets\cmdlets"`
+First, open a command prompt. Then clone this repo: `git clone https://github.com/greencoder001/windows-cmdlets.git` and copy every file in the cmdlets folder to `C:\Windows\system32`
 
 Now you can use all cmdlets!
 
