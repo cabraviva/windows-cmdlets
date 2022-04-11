@@ -24,3 +24,5 @@ Now you can use all cmdlets!
 | sudo | Run a command as administrator | sudo command |
 | poweroff | Shutdown the computer | poweroff |
 | reboot | Reboot the computer | reboot |
+| zip | Compresses a file | zip archive.zip file-to-add.txt |
+| unzip | Extracts an archive | unzip archive.zip |

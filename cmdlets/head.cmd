@@ -2,4 +2,4 @@
 :: This file is part of https://github.com/greencoder001/windows-cmdlets
 @echo off
 
-type %0 | find /N " " | findstr /r \[[0-9]\]
+type %1 | find /N " " | findstr /r \[[0-9]\]
